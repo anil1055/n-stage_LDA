@@ -13,20 +13,32 @@ The steps of the method are shown in above Figure. In order to reduce the number
 
 This method was applied for Turkish and English language. n-stage LDA method was better than classic LDA according to related studies. 
 
-Related papers & articles for n-stage LDA
-Please citation first paper: Classification of New Titles by Two Stage Latent Dirichlet Allocation
+# Related papers & articles for n-stage LDA
+
+!!! Please citation first paper: Classification of New Titles by Two Stage Latent Dirichlet Allocation
+
 1-Guven, Z. A., Diri, B., & Cakaloglu, T. (2018, October). Classification of New Titles by Two Stage Latent Dirichlet Allocation. In 2018 Innovations in Intelligent Systems and Applications Conference (ASYU) (pp. 1-5). Ieee.
+
 2-Guven, Z. A., Diri, B., & Cakaloglu, T. (2021). Evaluation of Non-Negative Matrix Factorization and n-stage Latent Dirichlet Allocation for Emotion Analysis in Turkish Tweets. arXiv preprint arXiv:2110.00418.
+
 3-Güven, Z. A., Diri, B., & Çakaloğlu, T. (2020). Comparison of n-stage Latent Dirichlet Allocation versus other topic modeling methods for emotion analysis. Journal of the Faculty of Engineering and Architecture of Gazi University, 35(4), 2135-2146.
+
 4-Güven, Z. A., Diri, B., & Çakaloğlu, T. (2018, April). Classification of TurkishTweet emotions by n-stage Latent Dirichlet Allocation. In 2018 Electric Electronics, Computer Science, Biomedical Engineerings' Meeting (EBBT) (pp. 1-4). IEEE.
+
 5-Güven, Z. A., Diri, B., & Çakaloğlu, T. (2019, September). Comparison of Topic Modeling Methods for Type Detection of Turkish News. In 2019 4th International Conference on Computer Science and Engineering (UBMK) (pp. 150-154). IEEE.
+
 6-GÜVEN, Z. A., Banu, D. İ. R. İ., & ÇAKALOĞLU, T. (2019). Emotion Detection with n-stage Latent Dirichlet Allocation for Turkish Tweets. Academic Platform Journal of Engineering and Science, 7(3), 467-472.
+
 7-Güven, Z. A., Diri, B., & Çakaloğlu, T. Comparison Method for Emotion Detection of Twitter Users. In 2019 Innovations in Intelligent Systems and Applications Conference (ASYU) (pp. 1-5). IEEE.
 
 
-References
+# References
+
 [1] David M. Blei, Andrew Y. Ng, and Michael I. Jordan.  Latent Dirichlet allocation.Journal of Machine LearningResearch, 2003. ISSN 15324435. doi:10.1016/b978-0-12-411519-4.00006-9.
+
 [2] Yong  Chen,  Hui  Zhang,  Rui  Liu,  Zhiwen  Ye,  and  Jianying  Lin.Experimental  explorations  on  short  texttopic  mining  between  LDA  and  NMF  based  Schemes.Knowledge-Based Systems,  2019.    ISSN  09507051.doi:10.1016/j.knosys.2018.08.011.
+
 [3] Zekeriya Anil Güven, Banu Diri, and Tolgahan Çakaloˇglu. Classification of New Titles by Two Stage Latent DirichletAllocation. InProceedings - 2018 Innovations in Intelligent Systems and Applications Conference, ASYU 2018, 2018.ISBN 9781538677865. doi:10.1109/ASYU.2018.8554027.
+
 [4] Guven, Zekeriya Anil, Banu Diri, and Tolgahan Cakaloglu. "Evaluation of Non-Negative Matrix Factorization and n-stage Latent Dirichlet Allocation for Emotion Analysis in Turkish Tweets." arXiv preprint arXiv:2110.00418 (2021).
 
