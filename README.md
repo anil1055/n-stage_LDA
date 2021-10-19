@@ -16,6 +16,7 @@ This method was applied for Turkish and English language. n-stage LDA method was
 # Related papers & articles for n-stage LDA
 
 !!! Please citation first paper: 
+```
 @inproceedings{guven2019comparison,
   title={Comparison of Topic Modeling Methods for Type Detection of Turkish News},
   author={G{\"u}ven, Zekeriya Anil and Diri, Banu and {\c{C}}akalo{\u{g}}lu, Tolgahan},
@@ -23,7 +24,9 @@ This method was applied for Turkish and English language. n-stage LDA method was
   pages={150--154},
   year={2019},
   organization={IEEE}
+  doi={10.1109/UBMK.2019.8907050}
 }
+```
 
 1-Guven, Z. A., Diri, B., & Cakaloglu, T. (2018, October). Classification of New Titles by Two Stage Latent Dirichlet Allocation. In 2018 Innovations in Intelligent Systems and Applications Conference (ASYU) (pp. 1-5). Ieee.
 
