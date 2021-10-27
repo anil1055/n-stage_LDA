@@ -1,5 +1,5 @@
 # n-stage Latent Dirichlet Allocation (n-LDA)
-Proposed n-LDA & A Novel Approach for classical LDA
+Proposed n-LDA & A Novel Approach for classical LDA: related paper <https://arxiv.org/abs/2110.08591>
 
 Latent Dirichlet Allocation (LDA) is a generative probabilistic topic model for a given text collection. Topics have a probability distribution over words and text documents over topics. Each subject has a probability distribution over the fixed word corpus [1]. The method exemplifies a mix of these topics for each document. Then, a model is produced by sampling words from this mixture [2].
 
