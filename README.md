@@ -15,16 +15,17 @@ This method was applied for Turkish and English language. n-stage LDA method was
 
 # Related papers & articles for n-stage LDA
 
-!!! Please citation first paper: 
+!!! Please citation this paper: 
 ```
-@inproceedings{guven2019comparison,
-  title={Comparison of Topic Modeling Methods for Type Detection of Turkish News},
-  author={G{\"u}ven, Zekeriya Anil and Diri, Banu and {\c{C}}akalo{\u{g}}lu, Tolgahan},
-  booktitle={2019 4th International Conference on Computer Science and Engineering (UBMK)},
-  pages={150--154},
-  year={2019},
-  organization={IEEE}
-  doi={10.1109/UBMK.2019.8907050}
+@article{guven2020comparison,
+  title={Comparison of n-stage Latent Dirichlet Allocation versus other topic modeling methods for emotion analysis},
+  author={G{\"u}ven, Zekeriya An{\i}l and Diri, Banu and {\c{C}}akalo{\u{g}}lu, Tolgahan},
+  journal={Journal of the Faculty of Engineering and Architecture of Gazi University},
+  volume={35},
+  number={4},
+  pages={2135--2146},
+  year={2020},
+  doi={10.17341/gazimmfd.556104}
 }
 ```
 
